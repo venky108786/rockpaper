@@ -1,0 +1,14 @@
+.li {
+  list-style-type: none;
+  margin: 15px;
+}
+.button {
+  border: 0px;
+  background-color: transparent;
+  cursor: pointer;
+  outline: none;
+}
+.img {
+  height: 100px;
+  width: 100px;
+}
